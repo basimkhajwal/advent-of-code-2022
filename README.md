@@ -5,3 +5,4 @@ Advent of Code for 2022 with an ambitious goal, using a different programming la
 ## Progress
 - [X] Day 1: **C**
 - [X] Day 2: **Bash**
+- [X] Day 3: **Octave**
