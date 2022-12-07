@@ -8,3 +8,4 @@ Advent of Code for 2022 with an ambitious goal, using a different programming la
 - [X] Day 3: **Octave**
 - [X] Day 4: **Vimscript**
 - [X] Day 5: **Emacs Lisp**
+- [X] Day 6: **Awk**
